@@ -28,7 +28,7 @@ body {
 /* Background image css code copied and adapted from the Code Institute Whiskey Drop project*/
     height: 100vh;
     background-color: transparent;
-    background: url('../images/aircraft-hangar-lg.jpg') no-repeat center fixed;
+    /* background: url('../images/aircraft-hangar-lg.jpg') no-repeat center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -60,7 +60,7 @@ body {
     /* Background image css code copied and adapted from the Code Institute Whiskey Drop project*/
     height:700px;
     width: 100%;
-    background: url('../images/aircraft-engine.jpg') no-repeat center fixed;
+    /* background: url('../images/aircraft-engine.jpg') no-repeat center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -76,7 +76,7 @@ body {
     /* Background image css code copied and adapted from the Code Institute Whiskey Drop project*/
     height:700px;
     width: 100%;
-    background: url('../images/aircraft-hangar-front.jpg') no-repeat center fixed;
+    /* background: url('../images/aircraft-hangar-front.jpg') no-repeat center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -92,7 +92,7 @@ body {
     /* Background image css code copied and adapted from the Code Institute Whiskey Drop project*/
     height:700px;
     width: 100%;
-    background: url('../images/aircraft-taxi-night.jpg') no-repeat center fixed;
+    /* background: url('../images/aircraft-taxi-night.jpg') no-repeat center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -108,7 +108,7 @@ body {
     /* Background image css code copied and adapted from the Code Institute Whiskey Drop project*/
     height: 100vh;
     background-color: transparent;
-    background: url('../images/aircraft-cabin.jpg') no-repeat center fixed;
+    /* background: url('../images/aircraft-cabin.jpg') no-repeat center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -309,7 +309,7 @@ body {
 .testimonial-carousel {
 /* Background image css code copied from the Code Institute Whiskey Drop project*/
     background-color: transparent;
-    background: url('../images/above-the-clouds.jpg') no-repeat center scroll;
+    /* background: url('../images/above-the-clouds.jpg') no-repeat center scroll; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -479,23 +479,23 @@ body {
 
 @media screen and (max-width: 1366px) {
     .callout-container {
-        background: url('../images/aircraft-hangar-960w.jpg') no-repeat center scroll;
+        /* background: url('../images/aircraft-hangar-960w.jpg') no-repeat center scroll; */
         background-size: cover;
     }
     .testimonial-carousel {
-        background: url('../images/above-the-clouds.jpg') no-repeat center scroll;
+        /* background: url('../images/above-the-clouds.jpg') no-repeat center scroll; */
         background-size: cover;
     }
     .our-services-hero-container {
-        background: url('../images/aircraft-engine-960w.jpg') no-repeat center scroll;
+        /* background: url('../images/aircraft-engine-960w.jpg') no-repeat center scroll; */
         background-size: cover;
     }
     .about-us-hero-container {
-        background: url('../images/aircraft-hangar-front-web-960w.jpg') no-repeat center scroll;
+        /* background: url('../images/aircraft-hangar-front-web-960w.jpg') no-repeat center scroll; */
         background-size: cover;
     }
     .contact-us-hero-container {
-        background: url('../images/aircraft-taxi-night-960w.jpg') no-repeat center scroll;
+        /* background: url('../images/aircraft-taxi-night-960w.jpg') no-repeat center scroll; */
         background-size: cover;
     }
 }
@@ -519,4 +519,8 @@ body {
     .small-email {
         display: none;
     }
+}
+
+.social-media {
+    display: none;
 }

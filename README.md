@@ -1,13 +1,13 @@
 ![Aviation Consultancy](assets/images/logo-image.jpg)
 
-***Aviation Consultancy LLC** is (fictitious) consultancy business specialising in aircraft maintenance data and regulatory compliance, based at 
+***Sky-Hi Technologies** is (fictitious) consultancy business specialising in aircraft maintenance data and regulatory compliance, based at 
 London Heathrow Airport.
 I designed the website to be a showcase of the available services and a means for new customers to make contact with the business allowing project and service requests to be submitted. 
 It's services are B2B so not required to sell any products directly via the site.*
 
 ![Responsive Layout Screenshots](/wireframes/am-i-responsive.jpg) 
 
-*I created the Aviation Consultancy LLC logo to present a professional, trustworthy image based on research of similar contemporary consultancy service websites 
+*I created the Sky-Hi Technologies logo to present a professional, trustworthy image based on research of similar contemporary consultancy service websites 
 (details of these websites can be found in the Credits section). The colour scheme was chosen from the Blue / Green colours to reflect a calm balanced approach as well as to 
 blend well with the aviation and sky themes.*
 
@@ -61,18 +61,18 @@ blend well with the aviation and sky themes.*
 
 ### Project Goals ###
 
-The **goal** of this project is to build a website which allows Aviation Consultancy LLC to showcase its B2B services to potential business customers.
+The **goal** of this project is to build a website which allows Sky-Hi Technologies to showcase its B2B services to potential business customers.
 
 The features on the website will:
 
-- Give business customers more ways to interact with Aviation Consultancy LLC (contact form, social media, phone,  email).
+- Give business customers more ways to interact with Sky-Hi Technologies (contact form, social media, phone,  email).
 - Enable the business to showcase their services and key staff members.
 
 I achieve this by:
 
 - Providing contact details and social media links in the footer section of each page.
 - Providing an option to the customers to submit their contact and request details in a form.
-- Providing a summary of the consultancy services provided by Aviation Consultancy LLC
+- Providing a summary of the consultancy services provided by Sky-Hi Technologies
 - Providing an option to the customers to see staff member biographies and links to social media to find out more.
 
 ### User Goals ###
@@ -214,7 +214,7 @@ The final wireframes were created using Balsamiq adapted from the original hand 
 - [Random Name Generator](https://www.name-generator.org.uk/)
   - An online tool to generate random names for the team members in the About Us page.
 - [Microsoft Office365](https://www.microsoft.com/en-gb/microsoft-365)
-  - A suite of productivity apps used to design the Aviation Consultancy LLC logo
+  - A suite of productivity apps used to design the Sky-Hi Technologies logo
 
 ---
 
